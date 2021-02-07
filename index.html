@@ -6,18 +6,45 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
+	
       name: 'ASU Tutorials',
       repo: 'https://github.com/AuroraStudioDev/tutorial',
-      coverpage: true
+	  coverpage: true,
+	  search: 'auto',
+	  search : [
+        '/'
+	  ],
+	  search: {
+		  placeholder: '搜索',
+		  noData: 'No Results!'
+	  }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-python.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-sql.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+	  const gitalk = new Gitalk({
+		clientID: '5ec5b74e201d4094786c',
+		clientSecret: '76fb7ea72094655c8d41fb11010ec0834223b382',
+		repo: 'tutorial',
+		owner: 'AuroraStudioDev',
+		admin: ['AuroraStudioDev'],
+		// facebook-like distraction free mode
+		distractionFreeMode: false
+	  })
+  </script>
 </body>
 </html>
