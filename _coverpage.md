@@ -5,5 +5,4 @@
 > Studio's Tutorials about Minecraft
 
 [GitHub](https://github.com/AuroraStudioDev/tutorial)
-[Get Started](#quick-start)
 [Go To Offical Website](https://asu.world)
