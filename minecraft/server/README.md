@@ -18,49 +18,49 @@
 
 #### 纯净服务端(不支持插件和Mod)
 
-[官服核心](server/je/offical.md)
+[官服核心](minecraft/server/je/offical.md)
 
 #### 插件服务端(仅支持插件)
 
-[CraftBukkit(未完成)](server/je/craftbukkit.md)
+[CraftBukkit(未完成)](minecraft/server/je/craftbukkit.md)
 
-[Spigot(未完成)](server/je/spigot.md)
+[Spigot(未完成)](minecraft/server/je/spigot.md)
 
-[PaperSpigot(未完成)](server/je/paperspigot.md)
+[PaperSpigot(未完成)](minecraft/server/je/paperspigot.md)
 
-[TacoSpigot(未完成)](server/je/tacospigot.md)
+[TacoSpigot(未完成)](minecraft/server/je/tacospigot.md)
 
-[TorchSpigot(未完成)](server/je/torchspigot.md)
+[TorchSpigot(未完成)](minecraft/server/je/torchspigot.md)
 
-[VefLand(未完成)](server/je/vefland.md)
+[VefLand(未完成)](minecraft/server/je/vefland.md)
 
-[SpongeVanilla(未完成)](server/je/spongevanilla.md)
+[SpongeVanilla(未完成)](minecraft/server/je/spongevanilla.md)
 
 #### 模组服务端(支持插件和Mod)
 
-[官服核心+Forge(未完成)](server/je/offical+forge.md)
+[官服核心+Forge(未完成)](minecraft/server/je/offical+forge.md)
 
-[MCPC+(未完成)](server/je/mcpc+.md)
+[MCPC+(未完成)](minecraft/server/je/mcpc+.md)
 
-[Cauldron(未完成)](server/je/cauldron.md)
+[Cauldron(未完成)](minecraft/server/je/cauldron.md)
 
-[KCauldron(未完成)](server/je/kcauldron.md)
+[KCauldron(未完成)](minecraft/server/je/kcauldron.md)
 
-[Thermos(未完成)](server/je/thermos.md)
+[Thermos(未完成)](minecraft/server/je/thermos.md)
 
-[Contigo(未完成)](server/je/contigo.md)
+[Contigo(未完成)](minecraft/server/je/contigo.md)
 
-[Uranium(未完成)](server/je/uranium.md)
+[Uranium(未完成)](minecraft/server/je/uranium.md)
 
-[CatServer(未完成)](server/je/catserver.md)
+[CatServer(未完成)](minecraft/server/je/catserver.md)
 
-[Mohist(未完成)](server/je/mohist.md)
+[Mohist(未完成)](minecraft/server/je/mohist.md)
 
-[Arclight(未完成)](server/je/arclight.md)
+[Arclight(未完成)](minecraft/server/je/arclight.md)
 
-[Sponge(未完成)](server/je/sponge.md)
+[Sponge(未完成)](minecraft/server/je/sponge.md)
 
-[Fabric(未完成)](server/je/fabric.md)
+[Fabric(未完成)](minecraft/server/je/fabric.md)
 
 ## Minecraft BE
 
@@ -68,9 +68,9 @@
 
 #### 纯净服务端(不支持插件)
 
-[BDS(未完成)](server/be/bds.md)
+[BDS(未完成)](minecraft/server/be/bds.md)
 
 #### 插件服务端(仅支持插件)
 
-[NukkitX(未完成)](server/be/nukkitx.md)
+[NukkitX(未完成)](minecraft/server/be/nukkitx.md)
 
