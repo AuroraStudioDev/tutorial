@@ -48,6 +48,6 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.261-b12, mixed mode)
 
 		在Windows 10系统下，点击`新建`，输入`%JAVA_HOME%\bin`，回车。再次点击`新建`，输入`%JAVA_HOME%\jre\bin`，回车。确定
 	7. 重启电脑。
-	8. 再次打开命令提示符输入java -version并回车，验证。
+	8. 再次打开命令提示符输入`java -version`并回车，验证。
 
 *教程结束*
