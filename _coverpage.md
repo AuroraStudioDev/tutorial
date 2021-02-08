@@ -4,5 +4,5 @@
 
 > Studio's Tutorials about Minecraft
 
-[GitHub](https://github.com/AuroraStudioDev/tutorial)
-[Go To Offical Website](https://asu.world)
+[前往GitHub](https://github.com/AuroraStudioDev/tutorial)
+[前往ASU官网](https://asu.world)
