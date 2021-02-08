@@ -20,6 +20,8 @@
 
 ## 教程
 
+[视频教程](https://www.bilibili.com/video/BV14v4y1Z7wX)
+
 1. 点击[此处](https://www.minecraft.net/zh-hans/download/server/)进入Minecraft Server服务端官方下载地址
 2. 点击`下载 minecraft_server.x.xx.x.jar 并用以下命令运行：`中的链接下载服务端核心文件
 3. 下载完毕后，请务必将其放在一个空文件夹中
