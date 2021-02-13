@@ -1,6 +1,6 @@
-# Aurora Tutorial 服务端教程
+# 服务端配置教程
 
-*有关于Minecraft 服务端的教程*
+*有关于Minecraft 服务端配置的教程*
 
 *注：教程中 MCJE,MCBE均意为 Minecraft Java Editon,Minecraft Bedrock Edition*
 
