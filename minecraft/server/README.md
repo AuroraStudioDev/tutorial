@@ -22,7 +22,7 @@
 
 #### 插件服务端(仅支持插件)
 
-[CraftBukkit(未完成)](minecraft/server/je/craftbukkit.md)
+[CraftBukkit](minecraft/server/je/craftbukkit.md)
 
 [Spigot(未完成)](minecraft/server/je/spigot.md)
 
